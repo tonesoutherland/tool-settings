@@ -4,3 +4,4 @@ This repository contains various tooling configuration files specific to my deve
 
 - ConEmu
 - aText
+- Windows MMC Certificate Viewer
